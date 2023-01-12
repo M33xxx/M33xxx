@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a Master student studying in Robotics
-- 👯 I’m seeking for new graduate software development engineer opportunities
+- 🔭 I’m currently a Master student studying in Robotics at Northeastern University.
+- 👯 I’m seeking for new graduate software development engineer opportunities.
 - 📫 Email me at: nahsiemil@gmail.com or li.meis@northeastern.edu
 - 😄 Pronouns: she/her/hers
