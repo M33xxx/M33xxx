@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a Master student studying in Robotics at Northeastern University.
-- 👯 I’m seeking for new graduate Software Development Engineer opportunities.
-- ✨ I'm good at Python, Java, HTML/CSS/JavaScript, etc.
-- 👩‍💻 I'm currently working on a Full-Stack web project.
-- 📫 Email me at: nahsiemil@gmail.com or li.meis@northeastern.edu
-- 😄 Pronouns: she/her/hers
